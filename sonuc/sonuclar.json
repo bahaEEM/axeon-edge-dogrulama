@@ -1,0 +1,58 @@
+{
+  "A-donmus  tek referans, devreye almada dondurulmus": {
+    "n_devreye_alma_blok": 14,
+    "yanlis_alarm": 0.6206896551724138,
+    "ogreniyor_faz2": 0.0,
+    "n_faz2": 87,
+    "kutu_sayisi": 1,
+    "tespit_ic_bilezik": 0.9204545454545454,
+    "tespit_bilya": 0.9195402298850575,
+    "tespit_dis_bilezik": 0.9195402298850575,
+    "ogreniyor_ic_bilezik": 0.0,
+    "ogreniyor_bilya": 0.0,
+    "ogreniyor_dis_bilezik": 0.0,
+    "tespit_ortalama": 0.9198450017415535
+  },
+  "A-surekli tek referans, surekli ogrenen": {
+    "n_devreye_alma_blok": 14,
+    "yanlis_alarm": 0.0,
+    "ogreniyor_faz2": 0.0,
+    "n_faz2": 87,
+    "kutu_sayisi": 1,
+    "tespit_ic_bilezik": 0.9204545454545454,
+    "tespit_bilya": 0.9195402298850575,
+    "tespit_dis_bilezik": 0.9195402298850575,
+    "ogreniyor_ic_bilezik": 0.0,
+    "ogreniyor_bilya": 0.0,
+    "ogreniyor_dis_bilezik": 0.0,
+    "tespit_ortalama": 0.9198450017415535
+  },
+  "B1  rejim-kosullu, TAHMIN EDILEN devirden": {
+    "n_devreye_alma_blok": 14,
+    "yanlis_alarm": 0.0,
+    "ogreniyor_faz2": 0.11494252873563218,
+    "n_faz2": 87,
+    "kutu_sayisi": 2,
+    "tespit_ic_bilezik": 0.9204545454545454,
+    "tespit_bilya": 0.9195402298850575,
+    "tespit_dis_bilezik": 0.9195402298850575,
+    "ogreniyor_ic_bilezik": 0.0,
+    "ogreniyor_bilya": 0.0,
+    "ogreniyor_dis_bilezik": 0.0,
+    "tespit_ortalama": 0.9198450017415535
+  },
+  "B2  rejim-kosullu, GERCEK calisma noktasi (oracle)": {
+    "n_devreye_alma_blok": 14,
+    "yanlis_alarm": 0.0,
+    "ogreniyor_faz2": 0.3448275862068966,
+    "n_faz2": 87,
+    "kutu_sayisi": 4,
+    "tespit_ic_bilezik": 0.9204545454545454,
+    "tespit_bilya": 0.9195402298850575,
+    "tespit_dis_bilezik": 0.9195402298850575,
+    "ogreniyor_ic_bilezik": 0.0,
+    "ogreniyor_bilya": 0.0,
+    "ogreniyor_dis_bilezik": 0.0,
+    "tespit_ortalama": 0.9198450017415535
+  }
+}

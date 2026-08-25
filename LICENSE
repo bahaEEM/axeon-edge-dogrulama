@@ -1,0 +1,48 @@
+AXEON-Edge On Dogrulama Calismasi
+Telif Hakki (c) 2026 AXEON-Edge proje ekibi
+Ahmet Enes Kaymak, Emincan Yilmaz, Baha Tarman
+
+TUM HAKLARI SAKLIDIR.
+
+Bu depoda yer alan kaynak kod, betikler, uretilen sonuc dosyalari ve
+belgeler (topluca "Calisma") telif hakkiyla korunmaktadir. Calisma, ticari
+bir urunun gelistirilmesi kapsaminda uretilmistir ve acik kaynak lisansi
+altinda yayimlanmamistir.
+
+VERILEN IZIN
+
+Calismayi goruntuleme, indirme ve yalnizca sonuclarin dogrulanmasi ve
+degerlendirilmesi amaciyla kendi bilgisayarinizda calistirma izni
+verilmistir. Bu izin ozellikle su taraflari kapsar: destek programi
+degerlendiricileri, hakemler, akademik danismanlar ve is birligi
+gorusmesi yurutulen taraflar.
+
+IZIN VERILMEYENLER
+
+Asagidakiler icin telif hakki sahiplerinin onceden yazili izni gereklidir:
+
+  1. Calismanin tamaminin veya bir bolumunun yeniden dagitimi, yayimlanmasi
+     veya baska bir depoda barindirilmasi.
+  2. Calismanin ticari amacla kullanilmasi.
+  3. Calismadan turetilmis eser olusturulmasi.
+  4. Calismada yer alan yontem, algoritma ve mimarinin bir urun veya
+     hizmette kullanilmasi.
+
+UCUNCU TARAF VERILERI
+
+Bu depo hicbir ucuncu taraf veri kumesini icermez. Kullanilan veri
+kumeleri kendi kaynaklarindan indirilir ve kendi kosullarina tabidir.
+Ayrintilar icin belge/VERI_KAYNAKLARI.md dosyasina bakiniz. Bu lisans
+soz konusu veri kumeleri uzerinde hicbir hak vermez.
+
+GARANTI REDDI
+
+Calisma "OLDUGU GIBI" saglanmaktadir. Belirli bir amaca uygunluk dahil
+olmak uzere acik veya ortuk hicbir garanti verilmemektedir. Telif hakki
+sahipleri, Calismanin kullanimindan dogan hicbir zarardan sorumlu
+tutulamaz.
+
+ILETISIM
+
+Yukarida izin verilmeyenler kapsamindaki talepler icin proje ekibiyle
+iletisime geciniz.

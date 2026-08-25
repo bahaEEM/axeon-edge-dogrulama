@@ -1,0 +1,271 @@
+{
+  "tohum": 20260824,
+  "bootstrap_tur": 2000,
+  "ana_tablo": {
+    "A-donmus": {
+      "yanlis_alarm": 0.6206896551724138,
+      "yanlis_alarm_n": 87,
+      "yanlis_alarm_kayit_sayisi": 3,
+      "yanlis_alarm_wilson95": [
+        0.5156762081913435,
+        0.7154957728865221
+      ],
+      "yanlis_alarm_bootstrap95_kayit": [
+        0.0,
+        1.0
+      ],
+      "ogreniyor_faz2": 0.0,
+      "tespit_ortalama": 0.9198450017415535,
+      "tespit_havuz": 0.9198473282442748,
+      "tespit_n": 262,
+      "tespit_kayit_sayisi": 9,
+      "tespit_wilson95": [
+        0.8805811556510393,
+        0.9469797559330883
+      ],
+      "tespit_bootstrap95_kayit": [
+        0.8390804597701149,
+        1.0
+      ],
+      "kutu_sayisi": 1
+    },
+    "A-surekli": {
+      "yanlis_alarm": 0.0,
+      "yanlis_alarm_n": 87,
+      "yanlis_alarm_kayit_sayisi": 3,
+      "yanlis_alarm_wilson95": [
+        0.0,
+        0.042287506963128316
+      ],
+      "yanlis_alarm_bootstrap95_kayit": [
+        0.0,
+        0.0
+      ],
+      "ogreniyor_faz2": 0.0,
+      "tespit_ortalama": 0.9198450017415535,
+      "tespit_havuz": 0.9198473282442748,
+      "tespit_n": 262,
+      "tespit_kayit_sayisi": 9,
+      "tespit_wilson95": [
+        0.8805811556510393,
+        0.9469797559330883
+      ],
+      "tespit_bootstrap95_kayit": [
+        0.8390804597701149,
+        1.0
+      ],
+      "kutu_sayisi": 1
+    },
+    "B1": {
+      "yanlis_alarm": 0.0,
+      "yanlis_alarm_n": 87,
+      "yanlis_alarm_kayit_sayisi": 3,
+      "yanlis_alarm_wilson95": [
+        0.0,
+        0.042287506963128316
+      ],
+      "yanlis_alarm_bootstrap95_kayit": [
+        0.0,
+        0.0
+      ],
+      "ogreniyor_faz2": 0.11494252873563218,
+      "tespit_ortalama": 0.9198450017415535,
+      "tespit_havuz": 0.9198473282442748,
+      "tespit_n": 262,
+      "tespit_kayit_sayisi": 9,
+      "tespit_wilson95": [
+        0.8805811556510393,
+        0.9469797559330883
+      ],
+      "tespit_bootstrap95_kayit": [
+        0.8390804597701149,
+        1.0
+      ],
+      "kutu_sayisi": 2
+    },
+    "B2": {
+      "yanlis_alarm": 0.0,
+      "yanlis_alarm_n": 87,
+      "yanlis_alarm_kayit_sayisi": 3,
+      "yanlis_alarm_wilson95": [
+        0.0,
+        0.042287506963128316
+      ],
+      "yanlis_alarm_bootstrap95_kayit": [
+        0.0,
+        0.0
+      ],
+      "ogreniyor_faz2": 0.3448275862068966,
+      "tespit_ortalama": 0.9198450017415535,
+      "tespit_havuz": 0.9198473282442748,
+      "tespit_n": 262,
+      "tespit_kayit_sayisi": 9,
+      "tespit_wilson95": [
+        0.8805811556510393,
+        0.9469797559330883
+      ],
+      "tespit_bootstrap95_kayit": [
+        0.8390804597701149,
+        1.0
+      ],
+      "kutu_sayisi": 4
+    }
+  },
+  "farklar": {
+    "A-donmus - A-surekli (yanlis alarm)": {
+      "ortalama_fark": 0.6258045977011493,
+      "bootstrap95": [
+        0.0,
+        1.0
+      ],
+      "sifir_disinda": false
+    },
+    "A-donmus - B1 (yanlis alarm)": {
+      "ortalama_fark": 0.6258045977011493,
+      "bootstrap95": [
+        0.0,
+        1.0
+      ],
+      "sifir_disinda": false
+    },
+    "B1 - A-surekli (yanlis alarm)": {
+      "ortalama_fark": 0.0,
+      "bootstrap95": [
+        0.0,
+        0.0
+      ],
+      "sifir_disinda": false
+    },
+    "B1 - B2 (yanlis alarm)": {
+      "ortalama_fark": 0.0,
+      "bootstrap95": [
+        0.0,
+        0.0
+      ],
+      "sifir_disinda": false
+    }
+  },
+  "roc": {
+    "A-donmus": [
+      {
+        "z": 2.0,
+        "yanlis_alarm": 0.9195402298850575,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 2.5,
+        "yanlis_alarm": 0.9195402298850575,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 3.0,
+        "yanlis_alarm": 0.9195402298850575,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 3.5,
+        "yanlis_alarm": 0.6436781609195402,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 4.0,
+        "yanlis_alarm": 0.6206896551724138,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 4.5,
+        "yanlis_alarm": 0.4482758620689655,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 5.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 5.5,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 6.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      }
+    ],
+    "B1": [
+      {
+        "z": 2.0,
+        "yanlis_alarm": 0.8045977011494253,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 2.5,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 3.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 3.5,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 4.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 4.5,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 5.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 5.5,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      },
+      {
+        "z": 6.0,
+        "yanlis_alarm": 0.0,
+        "tespit": 0.9198473282442748
+      }
+    ]
+  },
+  "ablasyon": {
+    "tam (referans)": {
+      "yanlis_alarm": 0.0,
+      "tespit": 0.9198473282442748,
+      "ogreniyor": 0.11494252873563218
+    },
+    "log domeni KAPALI": {
+      "yanlis_alarm": 0.0,
+      "tespit": 0.9198473282442748,
+      "ogreniyor": 0.11494252873563218
+    },
+    "histerezis KAPALI": {
+      "yanlis_alarm": 0.0,
+      "tespit": 0.9198473282442748,
+      "ogreniyor": 0.11494252873563218
+    },
+    "N-of-M oylama KAPALI": {
+      "yanlis_alarm": 0.011494252873563218,
+      "tespit": 1.0,
+      "ogreniyor": 0.11494252873563218
+    },
+    "rejim katmani KAPALI": {
+      "yanlis_alarm": 0.0,
+      "tespit": 0.9198473282442748,
+      "ogreniyor": 0.0
+    }
+  }
+}

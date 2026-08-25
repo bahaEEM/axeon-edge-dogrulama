@@ -1,0 +1,18 @@
+# indirilen veri kumeleri - depoya dahil degil
+veri/
+*.mat
+*.tgz
+*.zip
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.gecici
+*.indiriliyor
+
+# editor / isletim sistemi
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

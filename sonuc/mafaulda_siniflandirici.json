@@ -1,0 +1,341 @@
+{
+  "tohum": 20260824,
+  "bootstrap_tur": 2000,
+  "underhang_radyal": {
+    "etki_buyuklugu": {
+      "rms": {
+        "d_blok": 1.317767711761746,
+        "kayit_bootstrap95": [
+          0.938001720053737,
+          1.847453680384203
+        ],
+        "sifir_disinda": true
+      },
+      "hiz_rms": {
+        "d_blok": 2.0836513876016545,
+        "kayit_bootstrap95": [
+          1.5976556590051605,
+          2.884337066688285
+        ],
+        "sifir_disinda": true
+      },
+      "a1x": {
+        "d_blok": 1.58174414167238,
+        "kayit_bootstrap95": [
+          1.2201525829338775,
+          2.171774925260615
+        ],
+        "sifir_disinda": true
+      },
+      "a1x_rms": {
+        "d_blok": 2.777678688799655,
+        "kayit_bootstrap95": [
+          1.9886142720788025,
+          4.01404090985056
+        ],
+        "sifir_disinda": true
+      },
+      "a2x_a1x": {
+        "d_blok": -0.7139631929989422,
+        "kayit_bootstrap95": [
+          -1.0316355849728716,
+          -0.49382437491390424
+        ],
+        "sifir_disinda": true
+      },
+      "a3x_a1x": {
+        "d_blok": -1.0031417305356776,
+        "kayit_bootstrap95": [
+          -1.7687297069967072,
+          -0.7462748431818966
+        ],
+        "sifir_disinda": true
+      },
+      "altharmonik": {
+        "d_blok": -0.8613863487362233,
+        "kayit_bootstrap95": [
+          -1.3078748500078954,
+          -0.6499235192747793
+        ],
+        "sifir_disinda": true
+      },
+      "thd": {
+        "d_blok": -0.965807402122281,
+        "kayit_bootstrap95": [
+          -1.5208748380247241,
+          -0.7709964475452075
+        ],
+        "sifir_disinda": true
+      },
+      "kurtosis": {
+        "d_blok": -1.3241270402651297,
+        "kayit_bootstrap95": [
+          -3.268670830287463,
+          -0.5522411166351099
+        ],
+        "sifir_disinda": true
+      },
+      "crest": {
+        "d_blok": -1.5666690350822197,
+        "kayit_bootstrap95": [
+          -2.76367604901494,
+          -0.8928433854408812
+        ],
+        "sifir_disinda": true
+      },
+      "rulman_bant": {
+        "d_blok": 0.4233199286331641,
+        "kayit_bootstrap95": [
+          -0.09320667158015221,
+          0.9450361819368859
+        ],
+        "sifir_disinda": false
+      }
+    },
+    "kayit_cv": {
+      "derinlik_2": {
+        "tespit_ort": 0.86,
+        "tespit_min": 0.6666666666666666,
+        "yanlis_pozitif_ort": 0.0782312925170068,
+        "yanlis_pozitif_maks": 0.22448979591836735,
+        "tur_sayisi": 5,
+        "yapraklar": [
+          4,
+          3,
+          4,
+          3,
+          3
+        ]
+      },
+      "derinlik_3": {
+        "tespit_ort": 0.86,
+        "tespit_min": 0.6666666666666666,
+        "yanlis_pozitif_ort": 0.07755102040816327,
+        "yanlis_pozitif_maks": 0.16666666666666666,
+        "tur_sayisi": 5,
+        "yapraklar": [
+          6,
+          4,
+          6,
+          5,
+          4
+        ]
+      }
+    },
+    "gorulmemis_devir": {
+      "derinlik_2": [
+        {
+          "disarida_hz": 20,
+          "tespit": 0.7142857142857143,
+          "yanlis_pozitif": 0.0
+        },
+        {
+          "disarida_hz": 30,
+          "tespit": 1.0,
+          "yanlis_pozitif": 1.0
+        },
+        {
+          "disarida_hz": 40,
+          "tespit": 0.4897959183673469,
+          "yanlis_pozitif": 0.0
+        },
+        {
+          "disarida_hz": 50,
+          "tespit": 1.0,
+          "yanlis_pozitif": 0.0
+        }
+      ],
+      "derinlik_3": [
+        {
+          "disarida_hz": 20,
+          "tespit": 0.7142857142857143,
+          "yanlis_pozitif": 0.0
+        },
+        {
+          "disarida_hz": 30,
+          "tespit": 1.0,
+          "yanlis_pozitif": 0.9
+        },
+        {
+          "disarida_hz": 40,
+          "tespit": 0.8571428571428571,
+          "yanlis_pozitif": 0.014285714285714285
+        },
+        {
+          "disarida_hz": 50,
+          "tespit": 1.0,
+          "yanlis_pozitif": 0.0
+        }
+      ]
+    },
+    "agac_metni": "|--- hiz_rms <= 0.00\n|   |--- kurtosis <= 2.97\n|   |   |--- class: 1\n|   |--- kurtosis >  2.97\n|   |   |--- class: 0\n|--- hiz_rms >  0.00\n|   |--- class: 1\n"
+  },
+  "overhang_radyal": {
+    "etki_buyuklugu": {
+      "rms": {
+        "d_blok": 0.3062424631831673,
+        "kayit_bootstrap95": [
+          -0.16018220928055502,
+          0.7366707241601447
+        ],
+        "sifir_disinda": false
+      },
+      "hiz_rms": {
+        "d_blok": 0.3240169351648703,
+        "kayit_bootstrap95": [
+          -0.12260964182910261,
+          0.9483641927070389
+        ],
+        "sifir_disinda": false
+      },
+      "a1x": {
+        "d_blok": 1.0123600242365205,
+        "kayit_bootstrap95": [
+          0.5083597815590638,
+          1.628485852077127
+        ],
+        "sifir_disinda": true
+      },
+      "a1x_rms": {
+        "d_blok": 1.4893278269441557,
+        "kayit_bootstrap95": [
+          1.094475438374326,
+          2.0297667864988376
+        ],
+        "sifir_disinda": true
+      },
+      "a2x_a1x": {
+        "d_blok": -1.2864418909550284,
+        "kayit_bootstrap95": [
+          -1.6705932956482774,
+          -0.9569050219662896
+        ],
+        "sifir_disinda": true
+      },
+      "a3x_a1x": {
+        "d_blok": -0.9314846441160534,
+        "kayit_bootstrap95": [
+          -1.2831018843202668,
+          -0.6428814011023268
+        ],
+        "sifir_disinda": true
+      },
+      "altharmonik": {
+        "d_blok": -1.4237418199567387,
+        "kayit_bootstrap95": [
+          -1.789580470528182,
+          -1.1150736752195423
+        ],
+        "sifir_disinda": true
+      },
+      "thd": {
+        "d_blok": -1.1964037204545277,
+        "kayit_bootstrap95": [
+          -1.600462013764001,
+          -0.8561595041625008
+        ],
+        "sifir_disinda": true
+      },
+      "kurtosis": {
+        "d_blok": 0.8070934097296788,
+        "kayit_bootstrap95": [
+          0.45916883188407237,
+          1.5132986602865954
+        ],
+        "sifir_disinda": true
+      },
+      "crest": {
+        "d_blok": 0.3743625139334744,
+        "kayit_bootstrap95": [
+          0.009353286095223574,
+          0.8493288310886246
+        ],
+        "sifir_disinda": true
+      },
+      "rulman_bant": {
+        "d_blok": -0.7288550875874481,
+        "kayit_bootstrap95": [
+          -1.334201724941313,
+          -0.2345392712086783
+        ],
+        "sifir_disinda": true
+      }
+    },
+    "kayit_cv": {
+      "derinlik_2": {
+        "tespit_ort": 0.900952380952381,
+        "tespit_min": 0.7857142857142857,
+        "yanlis_pozitif_ort": 0.08299319727891157,
+        "yanlis_pozitif_maks": 0.21428571428571427,
+        "tur_sayisi": 5,
+        "yapraklar": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "derinlik_3": {
+        "tespit_ort": 0.8676190476190475,
+        "tespit_min": 0.6904761904761905,
+        "yanlis_pozitif_ort": 0.09727891156462584,
+        "yanlis_pozitif_maks": 0.30952380952380953,
+        "tur_sayisi": 5,
+        "yapraklar": [
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      }
+    },
+    "gorulmemis_devir": {
+      "derinlik_2": [
+        {
+          "disarida_hz": 20,
+          "tespit": 0.9183673469387755,
+          "yanlis_pozitif": 0.2619047619047619
+        },
+        {
+          "disarida_hz": 30,
+          "tespit": 0.8979591836734694,
+          "yanlis_pozitif": 0.04285714285714286
+        },
+        {
+          "disarida_hz": 40,
+          "tespit": 0.3673469387755102,
+          "yanlis_pozitif": 0.04285714285714286
+        },
+        {
+          "disarida_hz": 50,
+          "tespit": 1.0,
+          "yanlis_pozitif": 0.5476190476190477
+        }
+      ],
+      "derinlik_3": [
+        {
+          "disarida_hz": 20,
+          "tespit": 0.9795918367346939,
+          "yanlis_pozitif": 0.23809523809523808
+        },
+        {
+          "disarida_hz": 30,
+          "tespit": 0.9591836734693877,
+          "yanlis_pozitif": 0.1
+        },
+        {
+          "disarida_hz": 40,
+          "tespit": 0.3673469387755102,
+          "yanlis_pozitif": 0.0
+        },
+        {
+          "disarida_hz": 50,
+          "tespit": 1.0,
+          "yanlis_pozitif": 0.5476190476190477
+        }
+      ]
+    }
+  }
+}
