@@ -88,6 +88,8 @@ sonuc/                         uretilen tablolar ve JSON ciktilari
 belge/
   RAPOR_TEMELI.md              bulgular; her biri icin ne cikti, neyi
                                kanitlar, neyi degistirir
+  EK_A_SAYILARIN_KAYNAGI.md    raporda gecen her sayinin hangi veriden,
+                               hangi kodla ve hangi ciktidan geldigi
   VERI_KAYNAKLARI.md           veri kunyeleri, kullanim kosullari, sinirlar
 veri/                          indirilen veri buraya gelir, depoya dahil degil
 ```
