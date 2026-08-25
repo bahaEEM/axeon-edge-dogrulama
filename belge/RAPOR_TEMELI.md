@@ -113,7 +113,7 @@ kurulabilir ve künye tablosuyla desteklenir. Bu, önceki hâlde yoktu.
 
 ---
 
-### B2 — CWRU'daki ana ticari iddia kayıt düzeyinde desteklenmiyor ⚠
+### B2 — CWRU'daki ana ticari iddia kayıt düzeyinde desteklenmiyor
 
 **Ne çıktı** `[HESAP]`:
 
@@ -144,7 +144,7 @@ yazmamak raporu savunmasız bırakır.
 
 ---
 
-### B3 — %62,1 rakamı eşik seçimine bağlı ⚠
+### B3 — %62,1 rakamı eşik seçimine bağlı
 
 **Ne çıktı** `[ÖLÇÜLDÜ]` — Z eşiği taraması:
 
@@ -193,7 +193,7 @@ gelişen arızada ortaya çıkar; o veri IMS/NASA'da var, henüz işlenmedi.
 
 ---
 
-### B5 — Ürünün temel fizik varsayımı doğrulandı ✅
+### B5 — Ürünün temel fizik varsayımı doğrulandı
 
 **Ne çıktı** `[ÖLÇÜLDÜ]` — underhang radyal, ortalama `a1x`:
 
@@ -219,7 +219,7 @@ söylenemez" sınırı **kaldırılmalı**, yerine bu tablo konmalı.
 
 ---
 
-### B6 — Sonuç sensör konumuna bağlı ⚠ (yeni bulgu)
+### B6 — Sonuç sensör konumuna bağlı
 
 **Ne çıktı** `[ÖLÇÜLDÜ]`. Aynı arıza, aynı kayıt, farklı ivmeölçer.
 Overhang radyal kanalda aynı analiz: ρ = +0,36 (p=0,385) / +0,83 (p=0,010) /
@@ -263,7 +263,7 @@ bu iddia da konuma bağlı.
 
 ---
 
-### B8 — MAFAULDA etki büyüklükleri kayıt düzeyinde ayakta kaldı ✅
+### B8 — MAFAULDA etki büyüklükleri kayıt düzeyinde ayakta kaldı
 
 **Ne çıktı** `[HESAP]` — underhang radyal, **32 sağlam + 28 dengesiz kayıt**
 (840 blok):
@@ -316,7 +316,7 @@ küçük örneklem uyarısının somut örneği olarak kullanılabilir.
 
 ---
 
-### B9 — Sınıflandırıcı iş planı hedefini tutmuyor ⚠
+### B9 — Sınıflandırıcı iş planı hedefini tutmuyor
 
 İki ayrı test yapıldı ve **birbirinden çok farklı sonuç verdiler**. Fark,
 bulgunun kendisidir.
@@ -400,7 +400,7 @@ sonrası** sürümden alınmalıdır. Bu belgedeki tablolar düzeltilmiş sürü
 
 ---
 
-### B11 — Dengesizlik / eksen kaçıklığı ayrımı: beklenti kısmen doğrulandı ✅⚠
+### B11 — Dengesizlik ile eksen kaçıklığı ayrımı
 
 **Veri.** MAFAULDA yatay eksen kaçıklığı, 4 kademe (0,5 / 1,0 / 1,5 / 2,0 mm) ×
 2 devir (30, 50 Hz) = 8 kayıt `[VERİSETİ]`. Karşılaştırma yalnızca **üç sınıfın
@@ -431,13 +431,13 @@ Dengesiz–kaçıklık ayrımı (Cohen d, kayıt düzeyi %95 bootstrap):
 | rms | −1,32 | [−2,05, −0,91] | evet |
 | rulman_bant | −0,51 | [−1,53, +0,46] | hayır |
 
-**Neyi kanıtlar — olumlu taraf.** `a2x_a1x` dengesizlik ile kaçıklığı gerçekten
+**Doğrulanan taraf.** `a2x_a1x` dengesizlik ile kaçıklığı gerçekten
 ayırıyor: kaçıklıkta oran 0,1711, dengesizlikte 0,0387 — **4,4 kat fark**, kayıt
 düzeyinde güven aralığı sıfırı dışlıyor. Mimari notundaki klasik beklenti bu
 yönde doğrulandı. `kurtosis` de ayırıyor (kaçıklık 3,97, dengesizlik 2,03), yani
 B7'deki "dengesizlik kurtosis'i düşürür" bulgusunun aynası.
 
-**Neyi kanıtlar — düzeltilmesi gereken taraf.** Beklenti "kaçıklıkta 2× baskın"
+**Düzeltilmesi gereken taraf.** Beklenti "kaçıklıkta 2× baskın"
 şeklinde kurulmuştu. Mutlak değere bakıldığında bu **doğrulanmıyor**:
 kaçıklıkta 2× genliği ≈ 0,1650 × 0,1711 = **0,0282**, sağlamda ≈ 0,1622 ×
 0,1658 = **0,0269**. Yani kaçıklık, sağlamda olmayan bir 2× yükselmesi
